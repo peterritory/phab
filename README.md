@@ -1,5 +1,25 @@
 
 #Phabricator使用说明
+Phabricator(以下可以成为Phabricator)是[Phacility公司](https://www.phacility.com/)的专门用于工程项目管理的综合产品，产品中包含的应用功能非常丰富，其有力竞品即Atlassian公司的各类产品，Phabricator与Atlassian公司产品的对比表格如下（来源<https://rekinyz.wordpress.com/2015/01/18/phabricator/>）：
+
+| 比较项目       | Phabricator  | Github |  Atlassian| 
+|:------------- |:-------------| :-------------| :-------------|
+| 代码托管 | SVN, Git, Mercurial|SVN, Git|Git, Mercurial
+| 提交前代码审查| Yes (Differential)|Partial (Pull Request|Yes (Crucible)|
+| 提交后代码审查 | Yes (Audit)|	Basic |Yes (Crucible)|
+|基于规则代码审查| Yes (Herald)|	No|No|
+|集成事件跟踪|Yes (Maniphest)|Yes (Issues)|Yes (JIRA)|
+|组织与项目管理|Yes (Projects)|Yes	|Yes|
+|访问管理|Yes|Yes|Yes|
+|代码浏览查看|Yes(Diffusion)|Yes|Yes (FishEye)|
+|文档管理|Yes (Phriction)|Yes|Yes (Confluence)|
+|设计审查|Yes(Pholio)|No|No|
+
+
+
+
+##功能简介
+1. 
 
 ##基本功能
 
