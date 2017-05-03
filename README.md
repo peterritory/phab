@@ -1,5 +1,5 @@
 
-#Phabricator使用说明
+# Phabricator使用说明
 
 Phabricator(以下可以成为Phabricator)是[Phacility公司](https://www.phacility.com/)的专门用于工程项目管理的综合产品，产品中包含的应用功能非常丰富，其有力竞品即Atlassian公司的各类产品，Phabricator与Atlassian公司产品的对比表格如下（来源<https://rekinyz.wordpress.com/2015/01/18/phabricator/>）：
 
@@ -20,7 +20,6 @@ Phabricator(以下可以成为Phabricator)是[Phacility公司](https://www.phaci
 
 
 ##功能简介
-
 
 1. 
 
