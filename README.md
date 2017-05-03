@@ -37,13 +37,12 @@ Phabricator与Github以及Atlassian公司产品的对比表格如下（来源<ht
 ## 使用基本逻辑
 
 Phabricator本质上是开发与项目管理软件，大部分与开发和项目管理相关的功能都集成在了Phab的各种Application中。
+
 对于普通项目（相对于代码项目而言），可以通过Projects应用逐步描述项目的基本属性，
 对于代码项目，首先就可以使用Diffusion开启git代码仓库（Repository），通过通过给定的*.git的URL路径（例如：ssh://test-fiw332m2cmuj@vault.phacility.com/source/sor.git）与本地客户端交互。
 
 
-## 功能简介
 
-1. 
 
 ## 基本功能
 
@@ -67,6 +66,25 @@ git clone ssh://test-fiw332m2cmuj@vault.phacility.com/source/sor.git
 ```
 
 5. 在操作的文件夹中即可看到sor作为代码编辑更新目录。
+
+
+
+### 项目管理功能
+
+项目计划
+计划开始时间
+计划持续时间
+负责人
+工作量
+工作任务
+工作记录
+任务交付
+交付物审批
+交付物发布
+工作量统计
+成本核算
+
+
 
 
 
